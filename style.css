@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+}
+
+.page-title {
+  color: #FF6D00;
+  font-family: Creepy, serif;
+  font-weight: normal;
+  text-align: center;
+  font-size: 6em;
+}
